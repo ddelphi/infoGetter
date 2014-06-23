@@ -1,0 +1,23 @@
+{
+  "name": "InfoGetter",
+  "version": "",
+  "description": "web info scraper script",
+  "main": "index.js",
+  
+  "dependencies": {
+    "js-yaml": "3.0.2",
+    "cheerio": "0.15.0",
+    "fetch": "0.3.6",
+    "underscore": "1.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "scraper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "ddelphi",
+  "email": "ddelphi@163.com"
+}
